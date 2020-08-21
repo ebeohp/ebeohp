@@ -1,4 +1,5 @@
-### Hi there 👋
+# phoebe -- @ebehop
+Hello, I'm Phoebe a high schooler interested in pursuing CS. Previously, I had no coding experience (not counting Scratch!) up until 9th grade which was a real door opener for me. Now, I'm brainstorming and programming html5 games for a non-profit called Keep Sugar Land Beautiful. 🌳🐸 I also intend to learn frameworks like Vue and continue to learn data structures on youtoob :>
 
 <!--
 **ebeohp/ebeohp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
