@@ -1,8 +1,6 @@
 # phoebe -- @ebeohp
-Hello, I'm Phoebe a high schooler interested in pursuing CS. I program html5 games for a non-profit called Keep Sugar Land Beautiful. 🌳🐸 I also intend to learn frameworks like Vue and continue to learn data structures on youtoob :> I aim to serve others.
+Hello, I'm Phoebe a high schooler interested in pursuing CS. I program html5 games for a non-profit called Keep Sugar Land Beautiful. 🌳🐸 I like comics and chickens.
 
-### “We know that “We all possess knowledge.” But knowledge puffs up while love builds up.”- Corinthians 8:11
-So lets go!!
 <!--
 **ebeohp/ebeohp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
