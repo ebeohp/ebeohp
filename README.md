@@ -1,6 +1,9 @@
 # phoebe -- @ebeohp
 Hello, I'm Phoebe.
-
+storybuilder in xr
+learning & games
+https://www.phoebeylin.wixsite.com/phoebe
+Opinions are my own.
 <!--
 **ebeohp/ebeohp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
